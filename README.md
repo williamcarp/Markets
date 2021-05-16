@@ -7,7 +7,4 @@ Aggregation of market indicators, financial history, and other useful investing 
 * Bankruptcies
 * Market Indicators
 * Economic Indicators
-* Notable Figures (Rothschild, J.P. Morgan, etc.) 
-
-
-
+* Notable Figures (Rothschild, J.P. Morgan, Gundlach) 
