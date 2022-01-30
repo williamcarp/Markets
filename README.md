@@ -3,6 +3,11 @@ Aggregation of market indicators, financial history, and other useful investing 
 
 ## to add
 
+* Stocks that interest me: Southwest, Alaska, FICO, Tradeweb, CME Group
+* Decide a on a value and growth portfolio 
+* other investment interests: buy Vix at historically low levels... (instead of shorting stocks), buy MOVE index for rate vol
+* Buy index funds: S&P, Dow, Russell, Stoxx Europe, etc.
+
 * Crises 
 * Bankruptcies
 * Market Indicators
