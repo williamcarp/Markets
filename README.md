@@ -2,11 +2,29 @@
 
 ## Financial History 
 
-Create a list of notable crisis and the causes. 
+Create a list of notable crisis and the causes.
+* Tulip Mania
+* South Sea bubble
+* Mississippi Company
+* Panic of 1819, 1825, 1837, 1847, 1857, 1866
+* Panic of 1901, 1907 
+* Crash of 1929
+* 1970s Energy Crisis
+* Chilean Crisis of 1982
+* Black Monday
+* Savings and Loan Crisis 1986-1995 (facilitated the birth of mortgage backed securities) 
+* Black Wednesday
+* 1997 Asian Financial Crisis 
+* 1998 Russian Financial Crisis (facilitated the end of Long Term Capital Management) 
+* Dot-Com Bubble
+* 911 Attacks 
+* Mortgage Crisis / Great Recession of 2008
+* Automotive Crisis 2008
+* 2015 Stock Market Crash?
 
 ## Bankruptcies
 
-Carvana. 
+Carvana, Argentina Bond defaults, Hertz, FTX, General Electric. 
 
 ## Success Stories
 
