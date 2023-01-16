@@ -1,4 +1,17 @@
 # Markets
+
+## Financial History 
+
+Create a list of notable crisis and the causes. 
+
+## Bankruptcies
+
+Carvana. 
+
+## Success Stories
+
+Apple, Google, Ford Motor Company. 
+
 Aggregation of market indicators, financial history, and other useful investing metrics.
 
 ## to add
