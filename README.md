@@ -24,6 +24,8 @@ Create a list of notable crisis and the causes.
 
 ## Bankruptcies
 
+Newset bankruptcy to note is Silicon Valley Bank (SVB). Which could show the effects of easy money policy and buying securities that have interst rate risk / market risk if you do not hold to maturity.
+
 Carvana, Argentina Bond defaults, Hertz, FTX, General Electric. 
 
 ## Success Stories
