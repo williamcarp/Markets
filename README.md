@@ -1,5 +1,7 @@
 # Markets
 
+# Summary of Market Summaries and Commentary contained in blog
+
 ## Financial History 
 
 Create a list of notable crisis and the causes.
